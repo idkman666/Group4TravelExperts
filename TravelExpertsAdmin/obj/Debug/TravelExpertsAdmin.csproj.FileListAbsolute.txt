@@ -1,0 +1,10 @@
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\bin\Debug\TravelExpertsAdmin.exe.config
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\bin\Debug\TravelExpertsAdmin.exe
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\bin\Debug\TravelExpertsAdmin.pdb
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.csprojAssemblyReference.cache
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.Properties.Resources.resources
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.csproj.GenerateResource.cache
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.csproj.CoreCompileInputs.cache
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.exe
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.pdb
+C:\Users\726927\source\repos\TravelExpertsAdmin\TravelExpertsAdmin\obj\Debug\TravelExpertsAdmin.Form1.resources
